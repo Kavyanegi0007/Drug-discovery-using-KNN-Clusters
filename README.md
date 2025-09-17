@@ -11,6 +11,7 @@ rdkit-pypi
 # Molecular Feature Clustering with DC50 Insights
 
 This project uses PCA and KMeans clustering to analyze molecular features and investigate the distribution of DC50 (half-maximal degradation concentration) values. The aim is to identify patterns among molecules and better understand how known DC50 values cluster in molecular space.
+<img width="893" height="502" alt="image" src="https://github.com/user-attachments/assets/dab637d6-d7db-4f26-8b15-f2d2295a9217" />
 
 ## 🧪 Objective
 
