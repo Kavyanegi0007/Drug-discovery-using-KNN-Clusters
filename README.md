@@ -39,6 +39,7 @@ The dataset contains molecular features and DC50 values for a subset of compound
 
 - **PCA + KMeans Clusters**  
   Reduces molecular features to 2D and highlights clusters with known DC50 values in red circles
+<img width="1262" height="596" alt="image" src="https://github.com/user-attachments/assets/4b5906fb-b507-4624-b3c1-0cf6ba8e1279" />
 
 ## 🧠 Challenges Faced
 
